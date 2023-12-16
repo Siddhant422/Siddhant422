@@ -1,9 +1,20 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+    <style>
+        .center-image {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
 <h1 align="center">Hi 👋, I'm Siddhant Keshari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align ="center" alt ="Coding" width ="400" src ="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
-- 🔭 I’m currently working on **Netflix Clone**
+<img class="center-image" alt ="Coding" width ="400" src ="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
+- 🔭 I’m currently working on **Natours API**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ExpressJs**
 
 - 📫 How to reach me **siddhantkeshari76@gmail.com**
 
