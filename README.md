@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Natours API<br>👩‍💻 I'm currently learning ExpressJs<br>📄  Ask me about React Native
+🔭 I'm currently working on Natours API<br>👩‍💻 I'm currently learning MERN<br>📄  Ask me about React Native
 
 
 ## 🌐 Socials:
