@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I'm currently working on Employee Management App<br>👩‍💻 I'm currently learning React Js<br>📄  Ask me about React Native<br><br>
+🔭 Hi, I'm Siddhant Keshari, currently working at Juspay as an Associate Software Development Engineer.<br>👩‍💻 I am currently building SDKs and APIs for NPCI<br>📄 Ask me about Rust and Purescript<br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/siddhantkeshari) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Siddhantkeshariii) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddhant422)
